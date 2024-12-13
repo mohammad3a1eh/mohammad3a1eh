@@ -23,3 +23,6 @@
 **`Crawling`** and **`scraping`** sites is one of my favorite hobbies and I am interested in **`developing`** small and interesting tools for myself and others to use. One of my areas of interest is **`website security`** and I am always studying and learning about it and I would like to become a skilled **`vulnerability hunter`** in the future. Currently my job is not programming and I am mostly involved with **`electronic`** boards and their production, design and development, but I would really like to be able to work as a **`back-end`** programmer.
 
 </div>
+
+
+<h3 align="center">I hope the contents of my account are useful and that you enjoy them. </h3>
