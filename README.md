@@ -7,12 +7,12 @@
 <h5> What languages do I understand? </h5>
 <div align="left">
 
-**`Python`** is my main language and i can easily work with **`Django`** framework.<br>
-In order to program microcontrollers, I also master languages such as **`C`** and **`C++`**.<br>
-I have worked with markup languages such as **`html`**, **`css`**, and **`markdown`**.<br>
-To increase my experience on web programming, I first learned **`PHP`** and after that I worked a little with the **`Laravel`** framework.<br>
-For the sake of a little curiosity, I also checked the syntax of other languages ​​such as **`Rust`** and **`C#`**.<br>
-In addition to all this, due to my interest in discovering vulnerabilities in the site, I learned some **`js`** in order to read and debug the sites.
+- **`Python`** is my main language and i can easily work with **`Django`** framework.<br>
+- In order to program microcontrollers, I also master languages such as **`C`** and **`C++`**.<br>
+- I have worked with markup languages such as **`html`**, **`css`**, and **`markdown`**.<br>
+- To increase my experience on web programming, I first learned **`PHP`** and after that I worked a little with the **`Laravel`** framework.<br>
+- For the sake of a little curiosity, I also checked the syntax of other languages ​​such as **`Rust`** and **`C#`**.<br>
+- In addition to all this, due to my interest in discovering vulnerabilities in the site, I learned some **`js`** in order to read and debug the sites.
 
 </div>
 
