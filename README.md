@@ -26,3 +26,7 @@
 
 
 <h3 align="center">I hope the contents of my account are useful and that you enjoy them. </h3>
+
+<h2 align="center">My Activity</h2>
+
+[![mohammad3a1eh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammad3a1eh&theme=github-compact&hide_title=true&hide_border=true&area=true)](https://github.com/mohammad3a1eh/OpenBook)
