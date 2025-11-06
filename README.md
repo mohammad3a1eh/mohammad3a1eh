@@ -1,32 +1,55 @@
-<h3 align="center">Hi there! I am <i>Mohammad Saleh</i></h3>
+# Hi there!
 
-<h4 align="center"> Electronics technician and software engineering student in iran </h4>
+**Mohammad Saleh** – Full-Stack Developer with DevOps experience from **Gorgan**, **Iran**.
 
-<hr>
-
-<h5> What languages do I understand? </h5>
-<div align="left">
-
-- **`Python`** is my main language and i can easily work with **`Django`** framework.<br>
-- In order to program microcontrollers, I also master languages such as **`C`** and **`C++`**.<br>
-- I have worked with markup languages such as **`html`**, **`css`**, and **`markdown`**.<br>
-- To increase my experience on web programming, I first learned **`PHP`** and after that I worked a little with the **`Laravel`** framework.<br>
-- For the sake of a little curiosity, I also checked the syntax of other languages ​​such as **`Rust`** and **`C#`**.<br>
-- In addition to all this, due to my interest in discovering vulnerabilities in the site, I learned some **`js`** in order to read and debug the sites.
-
-</div>
-
-<h5> What things am I interested in? </h5>
-
-<div align="left">
-
-**`Crawling`** and **`scraping`** sites is one of my favorite hobbies and I am interested in **`developing`** small and interesting tools for myself and others to use. One of my areas of interest is **`website security`** and I am always studying and learning about it and I would like to become a skilled **`vulnerability hunter`** in the future. Currently my job is not programming and I am mostly involved with **`electronic`** boards and their production, design and development, but I would really like to be able to work as a **`back-end`** programmer.
-
-</div>
+I am now actively working in the software industry, focusing on **backend development**.
 
 
-<h3 align="center">I hope the contents of my account are useful and that you enjoy them. </h3>
+## Skills
+- **Programming\Markup Languages:** <br><br>
+![Python](https://img.shields.io/badge/-Python-8FABD4?style=flat-square&logo=Python)
+![PHP](https://img.shields.io/badge/-Php-5C3E94?style=flat-square&logo=Php)
+![C/C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-C0C9EE?style=flat-square&logo=typescript)
+![Html](https://img.shields.io/badge/-Html-FA812F?style=flat-square&logo=html5)
 
-<h2 align="center">My Activity</h2>
+- **Frameworks and Libraries:** <br><br>
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Django](https://img.shields.io/badge/-Django-31694E?style=flat-square&logo=django)
+![Laravel](https://img.shields.io/badge/-Laravel-FCFAEE?style=flat-square&logo=laravel)
+![PyQt](https://img.shields.io/badge/-PyQt-CBF3BB?style=flat-square&logo=qt)
+
+- **Other Expertise:** Web Scraping, Automation, Security Testing, Electronics Design, Code Review, Team Collaboration
+
+## Professional Experience & Team Work
+I am an active member of **[@HamCodeTeam](https://github.com/HamCodeTeam)**, a collaborative programming team where we develop software and web projects.  
+Working in this team sharpened my skills in **large-scale project development**, **version control**, and **collaborative coding practices**.
+
+## Repositories
+
+- **[Raccoon](https://github.com/mohammad3a1eh/Raccoon)** – Python tool for web scraping & automation
+- **[PyQt Music Player](https://github.com/mohammad3a1eh/player)** – Desktop music player built with PyQt & Pygame for windows11
+- **[Telegram Bot Mercury](https://github.com/mohammad3a1eh/telegram-bot-mercury)** – Telegram bot for automation
+- **[Nice Cat](https://github.com/mohammad3a1eh/nice_cat)** – Terminal tool inspired by `cat`, fully rewritten and functional  
+- **[Django API Simple JWT](https://github.com/mohammad3a1eh/django-api-simple-jwt)** – Simple Django REST API with JWT authentication  
+- **[Blog PHP](https://github.com/mohammad3a1eh/blog_php)** – Lightweight blog system built with PHP  
+- **[TPalette](https://github.com/mohammad3a1eh/ttpalette)** – Python library like Colorama, supports 0–255 color saturation with ANSI escape codes  
+- **[linux](https://github.com/mohammad3a1eh/linux)** – Offline smart voice assistant for Debian-based Linux systems (VOSK / Snowboy powered) 
+- **[DNS Changer](https://github.com/mohammad3a1eh/DNS-changer)** – Script to change DNS settings quickly with PyQt  
+- **[ClientMod Assistant](https://github.com/mohammad3a1eh/clientmod_assis)** – Assistant tools for ClientMod PBX server (css / counter strike source)
+- **[BlurryIdentity](https://github.com/mohammad3a1eh/BlurryIdentity)** – OBS camera plugin: reads your camera feed and outputs a blurred version as a virtual camera  
+- **[OCR Text Parsian](https://github.com/mohammad3a1eh/ocr_text_parsian)** – OCR tool for Persian text recognition  
+- **[IP Switcher](https://github.com/mohammad3a1eh/ip-tracker)** – IP switcher utility for bind-shells and reverse-shells (used for network testing and authorized pentesting)
+- **[Accounting System](https://github.com/mohammad3a1eh/accounting)** – Simple accounting software web app
+- **[CSGO Multi Cheat External](https://github.com/mohammad3a1eh/CSGO-MULTICHEAT-EXTERNAL)** – External cheat tool for CSGO (educational / personal use)  
+- **[Say Time Persian](https://github.com/mohammad3a1eh/say-time-persian)** – Persian text-to-speech for time announcements  
+
+
+## Contact
+I am open to **professional opportunities** and collaborations.
+
+## GitHub Activity
 
 [![mohammad3a1eh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammad3a1eh&theme=github-compact&hide_title=true&hide_border=true&area=true)](https://github.com/mohammad3a1eh/OpenBook)
