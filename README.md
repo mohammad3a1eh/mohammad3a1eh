@@ -52,4 +52,4 @@ I am open to **professional opportunities** and collaborations.
 
 ## GitHub Activity
 
-[![mohammad3a1eh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammad3a1eh&theme=github-compact&hide_title=true&hide_border=true&area=true)](https://github.com/mohammad3a1eh/OpenBook)
+[![mohammad3a1eh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammad3a1eh&theme=github-compact&hide_title=true&hide_border=true&area=true)](https://github.com/mohammad3a1eh)
