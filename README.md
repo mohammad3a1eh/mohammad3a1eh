@@ -29,6 +29,7 @@ Working in this team sharpened my skills in **large-scale project development**,
 
 ## Repositories
 
+- **[Cafe Order System](https://github.com/mohammad3a1eh/cafe-order-system-portfolio)** – Online cafe ordering system with detailed menu items, real-time availability, and seamless order management for cafes 
 - **[Raccoon](https://github.com/mohammad3a1eh/Raccoon)** – Python tool for web scraping & automation
 - **[PyQt Music Player](https://github.com/mohammad3a1eh/player)** – Desktop music player built with PyQt & Pygame for windows11
 - **[Telegram Bot Mercury](https://github.com/mohammad3a1eh/telegram-bot-mercury)** – Telegram bot for automation
